@@ -1,0 +1,21 @@
+
+```plaintext
+Step,Test Steps,Test Data,Expected Result,Notes
+1,Open the extension.,,,The Welcome Back screen is shown.
+2,Unlock wallet.,password,"The Ether balance is shown on the overview.
+The wallet address is shown on the overview.
+The selected network is Ethereum Mainnet."
+3,Swtch to test network.,e.g. Sepolia,,,The Sepolia balance is shown on the overview.
+The wallet address is shown on the overview.
+The selected network is Sepolia."
+4,,,
+5,Enter public address.,e.g. 0x56F2e03c8D30649818c022a9759CF43B240D08B3,,,The recipient's hexadecimal address is shown.
+The specified amount is shown.
+The estimated gas details are shown.
+The total amount is shown."
+6 Enter amount.,e.g. 0.1,,,,,
+7 Confirm transaction,,,,,"Transaction appears in activity list item.
+
+8 Open activity item.,,"Transaction status and details displayed in item details.",
+9 Expand Activity log,,,,,"Created and confirmed activities displayed.",
+10 View transaction block explorer,,,,,"Block explorer opens new tab."
