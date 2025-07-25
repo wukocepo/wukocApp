@@ -1,0 +1,1 @@
+The code provided does not contain any code to be optimized. It appears to be a TypeScript type declaration for actions and events related to the use of Metamask's APIs, along with a function that creates a restricted messenger for the NFT controller. Since there is no actual code, optimization is not applicable.
